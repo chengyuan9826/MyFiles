@@ -1,0 +1,5 @@
+@mixin f-column($bgcolor,$width) {
+  width:$width;
+  background-color: $bgcolor;
+
+}
