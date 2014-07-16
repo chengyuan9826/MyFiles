@@ -3,5 +3,4 @@ MyFiles
 
 测试Git
 
-
-本地上传到服务器
+### 从github客户端上传文件到remote
